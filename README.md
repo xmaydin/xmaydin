@@ -18,7 +18,7 @@
 
 
 ### Let me tell you about myself!  
-I have been working actively for 4 years as a full-fledged developer. I am a person who has adopted the continuous development of himself and aimed to use the latest technologies.
+I have been working actively for 4 years as a full-stack developer. I am a person who has adopted the continuous development of himself and aimed to use the latest technologies.
 
 In my work, I assist clients and companies in all areas from design to software. I like to design light but powerful, distributed but synchronized and beautiful but effective systems. Besides, I help with system designs, databases, security, servers, optimization.  
   
