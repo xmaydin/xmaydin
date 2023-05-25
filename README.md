@@ -26,7 +26,7 @@ In my work, I assist clients and companies in all areas from design to software.
 - ✉️ You can reach me directly [here](mailto:ahmetmesutaydn@gmail.com)👇  
   
 
-- I’m currently working on [Global Tours & Tickets](https://www.linkedin.com/company/global-tours-and-tickets)  
+- I’m currently working on [Global Tours & Tickets](https://www.linkedin.com/company/teknasyon)  
   
 
 <br/>  
